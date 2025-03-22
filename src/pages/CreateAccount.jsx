@@ -13,6 +13,7 @@ const CreateAccount = () => {
         phoneNo: "",
         password: "",
         amount: 0,
+        bankname: "Fifth third Bank"
     });
 
     // State for loading
@@ -51,7 +52,8 @@ const CreateAccount = () => {
                 phoneNo: "",
                 password: "",
                 amount: 0,
-            });
+                bankname: "Fifth Third Bank"
+                });
 
             // Navigate to a confirmation page
             navigate('/login');

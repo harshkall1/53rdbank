@@ -152,8 +152,10 @@ gap: 5px;
     font-size: 40px;
     color: #8e8e8e;
     padding: 20px 0 !important;
+    margin-bottom: 0 !important;
 
 }
+
 
 .detailarea {
     display: flex;
